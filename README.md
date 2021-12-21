@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/7anna"><img src="https://api.daily.dev/devcards/d64c0da01a0648e898af9ebcc90b3219.png?r=wkl" width="400" alt="John Najm's Dev Card"/></a>
+<a href="https://app.daily.dev/7anna"><img src="https://github.com/JohnNajm/JohnNajm/blob/master/devcard.svg" width="400" alt="John Najm's Dev Card"/></a>
 <!--
 **JohnNajm/JohnNajm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
