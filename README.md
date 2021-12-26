@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://app.daily.dev/7anna" target="_blank">
     <img
-      width="256"
+      width="330"
       align="right"
       alt="John Najm's Dev Card"
       src="https://github.com/JohnNajm/JohnNajm/blob/master/devcard.svg"
