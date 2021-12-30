@@ -1,17 +1,19 @@
 # Hi there 👋
 
-<div align="left">
+<div align="right">
   <a href="https://app.daily.dev/7anna" target="_blank">
     <img
-      width="330"
+      width="300"
       align="right"
       alt="John Najm's Dev Card"
-      src="https://github.com/JohnNajm/JohnNajm/blob/master/devcard.svg"
+      src="https://api.daily.dev/devcards/d64c0da01a0648e898af9ebcc90b3219.png?r=hvi"
       >
   </a>
+
 </div>
 
-<br />
+
+<div align = "left">
 
 ## I'm John, Welcome to my profile!
 
@@ -52,15 +54,10 @@ ___
 <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=Tailwindcss&logoColor=white&style=flat" alt="Tailwindcss"> &nbsp; 
 <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=white&style=flat" alt="Web3.js"> &nbsp; 
 <img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=Shopify&logoColor=white&style=flat" alt="Shopify"> &nbsp;
-<img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=white&style=flat" alt="Solidity"> &nbsp;
 
+ </div>
 
+___
 
-
-<div align="right">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnNajm&layout=compact)](https://github.com/JohnNajm/github-readme-stats)
-
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnNajm&layout=compact)](https://github.com/JohnNajm/github-readme-stats)
 
