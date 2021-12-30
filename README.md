@@ -57,3 +57,10 @@ ___
 
 
 
+<div align="right">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnNajm&layout=compact)](https://github.com/JohnNajm/github-readme-stats)
+
+</div>
+
+
