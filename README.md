@@ -59,5 +59,5 @@ ___
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnNajm&layout=compact)](https://github.com/JohnNajm/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnNajm&layout=compact)
 
