@@ -6,7 +6,7 @@
       width="300"
       align="right"
       alt="John Najm's Dev Card"
-      src="https://api.daily.dev/devcards/d64c0da01a0648e898af9ebcc90b3219.png?r=hvi"
+      src="https://github.com/JohnNajm/JohnNajm/blob/master/devcard.svg"
       >
   </a>
 
