@@ -48,12 +48,13 @@ ___
 
 #### CMS:
 <img src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white&style=flat" alt="WordPress"> &nbsp; 
-<img src="https://img.shields.io/badge/-BigCommerce-121118?logo=BigCommerce&logoColor=white&style=flat" alt="BigCommerce">
+<img src="https://img.shields.io/badge/-BigCommerce-121118?logo=BigCommerce&logoColor=white&style=flat" alt="BigCommerce"> &nbsp;
+<img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=Shopify&logoColor=white&style=flat" alt="Shopify"> 
 
 #### Want To Learn:
 <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=Tailwindcss&logoColor=white&style=flat" alt="Tailwindcss"> &nbsp; 
 <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=white&style=flat" alt="Web3.js"> &nbsp; 
-<img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=Shopify&logoColor=white&style=flat" alt="Shopify"> &nbsp;
+
 
  </div>
 
